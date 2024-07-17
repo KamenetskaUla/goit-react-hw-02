@@ -1,0 +1,11 @@
+.feedReset {
+  color: green;
+  border: 2px solid blue;
+  box-shadow: inset;
+  margin-left: 10px;
+}
+.feedOptions {
+  color: darkblue;
+  border: 4px solid blue;
+  margin-left: 10px;
+}
